@@ -4,7 +4,7 @@ The shooter game is writed by python, include player and AI ememies.
 ```
 pip install pygame
 ```
-### RUN FILE "main.py" 
+### RUN FILE "main.py" in folder "src"
 ### MOVE AND SHOOT
 W to jump
 
